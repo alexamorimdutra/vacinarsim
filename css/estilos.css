@@ -6628,7 +6628,7 @@ body > * {
   left: 0%; }
   .animate-in-left.out-of-viewport {
     opacity: 0;
-    left: -5%; }
+    left: -10%; }
 
 .animate-in-right {
   transition: all 1.0s ease-out;
@@ -6637,7 +6637,7 @@ body > * {
   left: 0%; }
   .animate-in-right.out-of-viewport {
     opacity: 0;
-    left: 20%; }
+    left: 10%; }
 
 /* Ordenação das tabelas */
 table.tablesorter thead tr .header {
